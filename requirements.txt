@@ -1,0 +1,5 @@
+snowflake-python-connector
+SQLAlchemy
+xmltodict
+
+cresco-de @ http://ec2-user:python@ec2-54-245-137-177.us-west-2.compute.amazonaws.com
